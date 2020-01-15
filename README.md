@@ -1,2 +1,3 @@
 # project
-avali
+this is proje
+
