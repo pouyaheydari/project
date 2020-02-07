@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+nav{
+    border: 2px solid rgb(0, 0, 0);
+    height: 60px;
+
+}
+nav img{
+    height: 30px;
+    margin: 10px;
+    float: right;
+}
+nav ul{
+    float: right;
+    list-style: none;
+}
+
+nav ul li{
+    float: right;
+    margin: auto 10px;
+    color: rgb(48, 1, 102);
+}
+nav ul li:hover{
+color: rgb(10, 10, 10);
+font-weight: bold;
+}
+nav ul.link{
+    float: left;
+    
+}
+nav ul.link li {
+    background-color: rgb(148, 4, 4);
+    color: white;
+    padding: 9px;
+    border-radius: 8px;
+}
+
